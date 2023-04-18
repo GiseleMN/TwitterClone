@@ -1,0 +1,12 @@
+<header class="mb-10 w-full ">
+    <app-header></app-header>
+</header>
+<div class="flex items-center justify-center container mr-auto">
+    <app-post></app-post>
+</div>
+<div class="flex items-center justify-center container mr-auto flex-col" *ngFor="let tweetMsg of tweets">
+    <app-tweet [TweetMessage]=tweetMsg></app-tweet>
+</div>
+<footer class="bottom-0 m-auto w-full">
+    <app-footer></app-footer>
+</footer>
