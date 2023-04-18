@@ -32,15 +32,17 @@ O projeto inicalmete foi realizado com o uso do Tailwind<img  src="https://icong
     * ✅ Tema Light 🌖  
 * 🧰 Inserção de imagens em postagens 
 
+<br>
+
 Mesmo quem já tenha conhecimentos de uma linguagem, de um framework, ou qualquer outra ferramenta, desenvolver com outros, realizar projetos nos ajuda sempre a crescer em todos os sentidos.
 
 <br>
-
-
+<img width="300" src="src/assets/twitte.png">
+<br>
+<hr>
 <video width="400" controls autoplay muted>
 <source src="src/assets/twitter.mp4" type="video/mp4">
 </video>
-
 <br>
 
 Á vontade caso deseje realizar um fork do projeto 😉 
